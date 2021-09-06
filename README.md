@@ -1,5 +1,5 @@
 # Grid Based RTS Demo
-- Implemented UI
+- Flexible UI supporting different aspect ratios
 - Building placement on grid
 - Unit generation
 - Unit pathfinding with A*
